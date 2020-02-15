@@ -1,5 +1,7 @@
 <p>
 <center>
-Hello, World ALL
+ <body bgcolor="#afafaf">
+    <h1>This webpage has colored background.</h1>
+  </body>
 </center>
 </p>
