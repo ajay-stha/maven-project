@@ -1,7 +1,7 @@
 <p>
 <center>
- <body bgcolor="#afaaff">
-    <h1>Welcome to Khec.</h1>
+ <body bgcolor="#afaaaa">
+    <h1>Welcome to Khwopa.</h1>
   </body>
 </center>
 </p>
